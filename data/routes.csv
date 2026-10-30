@@ -1,0 +1,20 @@
+city_a,city_b,distance_km
+Alexandria,Borg El Arab,45
+Alexandria,Damanhur,65
+Borg El Arab,Damanhur,40
+Damanhur,Tanta,75
+Damanhur,Kafr El Sheikh,60
+Kafr El Sheikh,Tanta,45
+Kafr El Sheikh,Mansoura,55
+Tanta,Mansoura,60
+Tanta,Zagazig,65
+Tanta,Cairo,95
+Mansoura,Zagazig,55
+Mansoura,Port Said,70
+Zagazig,Ismailia,60
+Port Said,Ismailia,80
+Zagazig,Cairo,75
+Ismailia,Cairo,120
+Cairo,Giza,20
+Giza,Fayoum,85
+Cairo,Fayoum,100

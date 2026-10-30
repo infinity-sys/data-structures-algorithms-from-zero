@@ -1,0 +1,601 @@
+tracking,origin,destination,weight_kg,price_egp,priority,status
+DC62087103,Mansoura,Borg El Arab,5.7,49,standard,delivered
+DC98874582,Borg El Arab,Mansoura,17.8,91,standard,delivered
+DC60104094,Giza,Zagazig,8.1,58,standard,delivered
+DC15471535,Damanhur,Zagazig,14.2,119,express,delivered
+DC89925697,Kafr El Sheikh,Cairo,23.7,103,standard,delivered
+DC15972306,Giza,Tanta,3.5,47,standard,in transit
+DC23879272,Kafr El Sheikh,Tanta,24.3,172,express,in transit
+DC50827800,Alexandria,Tanta,16.4,78,standard,delivered
+DC22598069,Damanhur,Fayoum,13.8,78,standard,delivered
+DC00127169,Alexandria,Ismailia,22.9,107,standard,delivered
+DC38171165,Damanhur,Giza,15.3,89,standard,delivered
+DC68112884,Giza,Alexandria,12.2,68,standard,delivered
+DC99399959,Fayoum,Damanhur,11.5,69,standard,delivered
+DC99051145,Port Said,Zagazig,9.0,64,standard,delivered
+DC18097200,Port Said,Mansoura,7.5,59,standard,delivered
+DC63467863,Borg El Arab,Mansoura,20.2,95,standard,delivered
+DC18503183,Giza,Cairo,9.2,60,standard,delivered
+DC20051792,Alexandria,Fayoum,19.3,98,standard,in transit
+DC07113757,Port Said,Fayoum,8.6,63,standard,delivered
+DC05984986,Borg El Arab,Kafr El Sheikh,13.5,109,express,delivered
+DC91016763,Tanta,Kafr El Sheikh,2.9,45,standard,delivered
+DC83606849,Cairo,Zagazig,13.3,78,standard,at hub
+DC74057762,Tanta,Kafr El Sheikh,5.1,53,standard,in transit
+DC34643359,Ismailia,Borg El Arab,13.5,119,express,delivered
+DC49551865,Kafr El Sheikh,Ismailia,10.3,68,standard,delivered
+DC13069147,Kafr El Sheikh,Port Said,8.9,99,express,delivered
+DC61478322,Alexandria,Cairo,20.7,95,standard,delivered
+DC16412946,Tanta,Port Said,3.2,57,express,at hub
+DC00147767,Fayoum,Cairo,19.3,88,standard,at hub
+DC68200167,Zagazig,Mansoura,21.9,106,standard,at hub
+DC24827699,Port Said,Zagazig,22.7,112,standard,at hub
+DC22212234,Tanta,Damanhur,11.8,76,standard,at hub
+DC97717969,Damanhur,Mansoura,8.9,59,standard,at hub
+DC49881220,Damanhur,Zagazig,21.8,96,standard,delivered
+DC35624287,Fayoum,Zagazig,24.3,116,standard,delivered
+DC77190113,Alexandria,Tanta,2.2,36,standard,delivered
+DC19484614,Tanta,Mansoura,18.5,142,express,in transit
+DC22829093,Giza,Kafr El Sheikh,19.7,102,standard,delivered
+DC19736546,Kafr El Sheikh,Tanta,6.3,55,standard,delivered
+DC26431551,Mansoura,Tanta,15.9,81,standard,returned
+DC90816094,Kafr El Sheikh,Cairo,1.8,37,standard,at hub
+DC82779878,Ismailia,Cairo,3.9,71,express,delivered
+DC94437893,Ismailia,Kafr El Sheikh,2.4,44,standard,at hub
+DC60470430,Kafr El Sheikh,Zagazig,14.8,78,standard,in transit
+DC70071061,Tanta,Damanhur,3.2,69,express,at hub
+DC66135539,Fayoum,Giza,9.8,93,express,delivered
+DC76278639,Kafr El Sheikh,Ismailia,2.0,61,express,delivered
+DC42683685,Kafr El Sheikh,Cairo,8.6,87,express,delivered
+DC75455309,Port Said,Cairo,13.4,119,express,delivered
+DC17757961,Borg El Arab,Damanhur,3.6,45,standard,delivered
+DC39689043,Alexandria,Fayoum,8.7,57,standard,delivered
+DC96899891,Port Said,Damanhur,11.0,63,standard,in transit
+DC74188556,Alexandria,Zagazig,8.1,64,standard,delivered
+DC21095406,Fayoum,Port Said,6.3,59,standard,delivered
+DC74642368,Alexandria,Kafr El Sheikh,2.2,46,standard,delivered
+DC00202036,Kafr El Sheikh,Zagazig,10.0,65,standard,delivered
+DC23870186,Borg El Arab,Alexandria,21.5,157,express,delivered
+DC24638184,Kafr El Sheikh,Cairo,13.9,75,standard,delivered
+DC18571922,Tanta,Cairo,13.4,77,standard,delivered
+DC81921509,Fayoum,Ismailia,6.0,44,standard,delivered
+DC85198612,Alexandria,Borg El Arab,9.9,60,standard,delivered
+DC97795739,Giza,Borg El Arab,8.7,57,standard,delivered
+DC91852818,Cairo,Damanhur,13.4,73,standard,in transit
+DC52937747,Borg El Arab,Tanta,10.4,66,standard,in transit
+DC40475338,Damanhur,Kafr El Sheikh,19.4,91,standard,at hub
+DC62083292,Mansoura,Fayoum,11.4,146,urgent,at hub
+DC66550209,Tanta,Giza,4.3,72,express,in transit
+DC22379767,Zagazig,Alexandria,24.8,109,standard,delivered
+DC27918803,Port Said,Damanhur,18.7,99,standard,delivered
+DC60214838,Damanhur,Tanta,16.9,89,standard,delivered
+DC76750257,Giza,Zagazig,3.5,50,standard,delivered
+DC83908961,Kafr El Sheikh,Mansoura,11.4,68,standard,delivered
+DC75761927,Damanhur,Alexandria,11.4,72,standard,delivered
+DC50859587,Zagazig,Fayoum,3.5,37,standard,delivered
+DC40838479,Borg El Arab,Cairo,9.6,65,standard,delivered
+DC50776255,Borg El Arab,Mansoura,20.3,99,standard,in transit
+DC41423919,Mansoura,Zagazig,9.2,88,express,delivered
+DC15584057,Kafr El Sheikh,Cairo,19.6,90,standard,delivered
+DC55964976,Zagazig,Giza,11.0,67,standard,delivered
+DC33045051,Zagazig,Fayoum,19.4,144,express,delivered
+DC48399504,Mansoura,Damanhur,20.0,94,standard,delivered
+DC82040974,Tanta,Cairo,15.6,85,standard,delivered
+DC15166515,Port Said,Tanta,18.4,95,standard,delivered
+DC10509572,Tanta,Mansoura,4.3,50,standard,delivered
+DC72344332,Zagazig,Giza,15.9,77,standard,delivered
+DC21635930,Kafr El Sheikh,Zagazig,7.2,112,urgent,delivered
+DC84065122,Kafr El Sheikh,Borg El Arab,7.4,51,standard,in transit
+DC16560260,Borg El Arab,Cairo,19.7,94,standard,delivered
+DC75462569,Ismailia,Borg El Arab,0.2,39,standard,delivered
+DC00574525,Damanhur,Borg El Arab,19.8,99,standard,delivered
+DC61608433,Damanhur,Giza,15.2,81,standard,delivered
+DC12648903,Alexandria,Cairo,12.8,74,standard,delivered
+DC94356153,Giza,Borg El Arab,9.3,92,express,delivered
+DC33959028,Cairo,Zagazig,13.5,70,standard,delivered
+DC49593682,Zagazig,Giza,10.4,141,urgent,delivered
+DC10064222,Cairo,Alexandria,17.1,139,express,delivered
+DC93045053,Giza,Cairo,22.1,106,standard,delivered
+DC10964457,Fayoum,Damanhur,18.4,140,express,delivered
+DC01724398,Cairo,Fayoum,22.6,100,standard,delivered
+DC94344500,Zagazig,Mansoura,4.5,93,urgent,delivered
+DC76383875,Alexandria,Fayoum,1.3,30,standard,at hub
+DC56487013,Alexandria,Ismailia,22.1,167,express,delivered
+DC19430625,Zagazig,Mansoura,21.7,97,standard,delivered
+DC09990312,Port Said,Giza,9.4,65,standard,at hub
+DC96844832,Damanhur,Alexandria,1.0,31,standard,delivered
+DC94696019,Alexandria,Tanta,18.1,90,standard,in transit
+DC13255610,Borg El Arab,Giza,9.3,66,standard,delivered
+DC45450587,Giza,Ismailia,3.2,47,standard,delivered
+DC39798454,Alexandria,Borg El Arab,22.0,157,express,delivered
+DC45569817,Mansoura,Tanta,20.8,94,standard,delivered
+DC44881848,Tanta,Borg El Arab,6.5,88,express,delivered
+DC43282918,Kafr El Sheikh,Fayoum,19.3,144,express,in transit
+DC43218754,Kafr El Sheikh,Ismailia,5.5,53,standard,delivered
+DC84193077,Alexandria,Mansoura,13.1,119,express,delivered
+DC00266857,Tanta,Mansoura,8.8,59,standard,in transit
+DC88692524,Tanta,Kafr El Sheikh,18.7,99,standard,delivered
+DC87700889,Zagazig,Mansoura,11.5,72,standard,delivered
+DC56347425,Cairo,Alexandria,3.9,97,urgent,delivered
+DC60722551,Damanhur,Port Said,3.9,62,express,in transit
+DC63336168,Damanhur,Giza,22.6,103,standard,at hub
+DC31990479,Damanhur,Kafr El Sheikh,19.9,99,standard,delivered
+DC36354311,Alexandria,Cairo,7.9,126,urgent,delivered
+DC67260258,Ismailia,Borg El Arab,8.8,62,standard,delivered
+DC87529389,Borg El Arab,Ismailia,7.3,81,express,delivered
+DC19144918,Fayoum,Tanta,17.1,95,standard,delivered
+DC87144065,Zagazig,Port Said,3.5,49,standard,returned
+DC04797037,Giza,Alexandria,24.1,102,standard,delivered
+DC21231543,Fayoum,Kafr El Sheikh,12.6,75,standard,delivered
+DC60613551,Cairo,Ismailia,16.3,129,express,delivered
+DC47221028,Mansoura,Damanhur,9.9,96,express,delivered
+DC07304630,Giza,Zagazig,15.1,127,express,delivered
+DC66084552,Mansoura,Damanhur,9.7,59,standard,in transit
+DC65759272,Cairo,Borg El Arab,2.4,40,standard,delivered
+DC78331821,Damanhur,Zagazig,9.9,66,standard,delivered
+DC14877800,Mansoura,Port Said,21.7,159,express,delivered
+DC02225059,Fayoum,Kafr El Sheikh,14.1,125,express,in transit
+DC25625927,Port Said,Tanta,13.0,157,urgent,delivered
+DC07243189,Zagazig,Borg El Arab,14.5,76,standard,delivered
+DC87067544,Mansoura,Alexandria,20.9,97,standard,delivered
+DC57266518,Cairo,Zagazig,5.5,58,standard,delivered
+DC22185461,Damanhur,Cairo,20.2,100,standard,delivered
+DC71392061,Alexandria,Ismailia,11.1,62,standard,in transit
+DC16704071,Alexandria,Damanhur,1.1,53,express,delivered
+DC67013227,Borg El Arab,Zagazig,25.0,115,standard,delivered
+DC30751404,Fayoum,Tanta,10.1,67,standard,delivered
+DC44940377,Zagazig,Port Said,23.7,106,standard,delivered
+DC36613814,Zagazig,Kafr El Sheikh,16.5,91,standard,in transit
+DC09340993,Port Said,Zagazig,18.9,95,standard,delivered
+DC84708180,Mansoura,Ismailia,13.6,83,standard,delivered
+DC38893379,Tanta,Alexandria,16.3,130,express,in transit
+DC51334865,Cairo,Zagazig,19.1,91,standard,delivered
+DC51840576,Cairo,Fayoum,14.5,74,standard,delivered
+DC58622033,Borg El Arab,Fayoum,12.7,77,standard,delivered
+DC76558952,Mansoura,Tanta,18.1,92,standard,delivered
+DC39057435,Ismailia,Fayoum,14.3,80,standard,delivered
+DC76296469,Tanta,Mansoura,3.8,44,standard,delivered
+DC38779255,Mansoura,Fayoum,12.2,106,express,delivered
+DC98869639,Giza,Fayoum,2.0,51,express,at hub
+DC78925918,Ismailia,Port Said,13.7,112,express,delivered
+DC40118852,Alexandria,Borg El Arab,21.0,216,urgent,delivered
+DC35581597,Tanta,Zagazig,4.0,44,standard,at hub
+DC66493394,Ismailia,Giza,23.8,108,standard,delivered
+DC83912683,Zagazig,Kafr El Sheikh,13.6,116,express,delivered
+DC35183925,Cairo,Borg El Arab,18.4,92,standard,delivered
+DC33857716,Cairo,Giza,14.4,80,standard,delivered
+DC87342907,Giza,Tanta,14.7,77,standard,delivered
+DC32024506,Zagazig,Tanta,1.9,34,standard,delivered
+DC48961890,Alexandria,Kafr El Sheikh,11.9,69,standard,delivered
+DC84592615,Damanhur,Alexandria,2.5,35,standard,delivered
+DC14209557,Borg El Arab,Damanhur,19.5,93,standard,returned
+DC27796726,Damanhur,Mansoura,13.4,76,standard,delivered
+DC18103092,Mansoura,Alexandria,23.8,176,express,in transit
+DC56178437,Borg El Arab,Ismailia,22.0,105,standard,delivered
+DC85172874,Ismailia,Zagazig,17.2,89,standard,returned
+DC13757909,Alexandria,Zagazig,11.3,112,express,delivered
+DC16398853,Kafr El Sheikh,Fayoum,12.8,71,standard,returned
+DC13465122,Port Said,Damanhur,7.3,57,standard,delivered
+DC13957328,Fayoum,Alexandria,20.2,155,express,delivered
+DC56527345,Ismailia,Alexandria,6.0,55,standard,delivered
+DC41242892,Port Said,Kafr El Sheikh,11.3,76,standard,delivered
+DC54297449,Giza,Borg El Arab,22.4,110,standard,in transit
+DC41412756,Damanhur,Borg El Arab,16.9,93,standard,delivered
+DC75919538,Tanta,Cairo,19.2,149,express,delivered
+DC83727574,Port Said,Mansoura,18.0,133,express,delivered
+DC37247616,Borg El Arab,Alexandria,4.1,45,standard,in transit
+DC29077646,Ismailia,Mansoura,24.5,107,standard,delivered
+DC92802002,Alexandria,Ismailia,0.5,38,standard,delivered
+DC55343927,Kafr El Sheikh,Tanta,0.3,53,express,delivered
+DC74821461,Zagazig,Ismailia,12.3,67,standard,in transit
+DC49464292,Fayoum,Cairo,21.5,107,standard,delivered
+DC65982503,Ismailia,Damanhur,9.1,68,standard,delivered
+DC15303264,Borg El Arab,Cairo,11.3,65,standard,delivered
+DC33700328,Port Said,Fayoum,12.6,113,express,delivered
+DC49902137,Borg El Arab,Ismailia,5.5,55,standard,delivered
+DC70832972,Cairo,Zagazig,14.4,85,standard,delivered
+DC36644268,Borg El Arab,Alexandria,6.6,56,standard,delivered
+DC21092822,Alexandria,Ismailia,2.5,45,standard,delivered
+DC77491692,Ismailia,Zagazig,1.4,37,standard,delivered
+DC81059860,Damanhur,Fayoum,21.6,151,express,delivered
+DC81031826,Mansoura,Tanta,12.9,72,standard,delivered
+DC05832090,Alexandria,Cairo,20.1,91,standard,at hub
+DC06777357,Kafr El Sheikh,Zagazig,20.2,101,standard,delivered
+DC62317375,Cairo,Tanta,22.5,110,standard,in transit
+DC59857936,Alexandria,Port Said,21.8,164,express,delivered
+DC98578509,Fayoum,Cairo,13.2,74,standard,returned
+DC64199087,Tanta,Port Said,23.8,103,standard,delivered
+DC04282277,Cairo,Damanhur,0.3,48,express,delivered
+DC89559611,Fayoum,Port Said,24.4,238,urgent,delivered
+DC73228443,Borg El Arab,Tanta,15.4,74,standard,delivered
+DC67518569,Mansoura,Ismailia,24.5,173,express,delivered
+DC04743472,Tanta,Giza,1.4,49,express,delivered
+DC52410490,Ismailia,Fayoum,16.7,81,standard,delivered
+DC00194712,Giza,Kafr El Sheikh,0.7,77,urgent,delivered
+DC81971788,Zagazig,Port Said,5.5,44,standard,delivered
+DC81951710,Giza,Mansoura,15.0,120,express,delivered
+DC33556950,Ismailia,Port Said,5.8,57,standard,in transit
+DC48011939,Mansoura,Zagazig,20.3,98,standard,in transit
+DC76056835,Zagazig,Port Said,15.8,79,standard,delivered
+DC51582651,Giza,Kafr El Sheikh,20.8,95,standard,delivered
+DC53202307,Cairo,Giza,10.8,98,express,in transit
+DC96279800,Ismailia,Mansoura,9.5,61,standard,in transit
+DC49139212,Port Said,Damanhur,15.8,130,express,delivered
+DC44939407,Ismailia,Borg El Arab,24.1,117,standard,delivered
+DC25552791,Port Said,Tanta,23.6,114,standard,in transit
+DC53697401,Zagazig,Cairo,24.4,175,express,in transit
+DC07553697,Ismailia,Mansoura,20.0,102,standard,delivered
+DC16014583,Zagazig,Mansoura,15.9,131,express,at hub
+DC50303483,Damanhur,Giza,0.6,31,standard,delivered
+DC13228927,Damanhur,Giza,10.9,63,standard,delivered
+DC03097188,Fayoum,Borg El Arab,2.1,40,standard,delivered
+DC69458833,Port Said,Fayoum,9.8,57,standard,delivered
+DC71432069,Ismailia,Zagazig,17.2,191,urgent,returned
+DC87932899,Damanhur,Kafr El Sheikh,3.9,61,express,returned
+DC29057109,Tanta,Port Said,16.4,131,express,delivered
+DC22322097,Port Said,Fayoum,11.4,113,express,delivered
+DC33939418,Borg El Arab,Giza,7.8,54,standard,delivered
+DC53098144,Giza,Borg El Arab,2.6,34,standard,in transit
+DC39050196,Kafr El Sheikh,Giza,16.5,82,standard,delivered
+DC44870033,Tanta,Damanhur,22.0,97,standard,delivered
+DC04313584,Giza,Damanhur,16.9,92,standard,delivered
+DC86221632,Damanhur,Tanta,3.9,38,standard,delivered
+DC29201874,Ismailia,Mansoura,14.4,81,standard,delivered
+DC85940756,Tanta,Kafr El Sheikh,1.5,44,standard,delivered
+DC53155579,Borg El Arab,Damanhur,9.0,126,urgent,delivered
+DC68059948,Ismailia,Cairo,21.1,161,express,delivered
+DC42143676,Damanhur,Ismailia,3.2,36,standard,delivered
+DC78576637,Ismailia,Cairo,21.3,95,standard,delivered
+DC69699910,Port Said,Ismailia,0.3,27,standard,delivered
+DC74693270,Kafr El Sheikh,Giza,14.4,176,urgent,delivered
+DC35427122,Cairo,Fayoum,23.8,242,urgent,delivered
+DC44590379,Kafr El Sheikh,Mansoura,24.7,107,standard,delivered
+DC73314273,Zagazig,Damanhur,1.2,73,urgent,delivered
+DC59484824,Mansoura,Borg El Arab,23.3,102,standard,delivered
+DC48353652,Giza,Damanhur,5.6,47,standard,delivered
+DC86793181,Damanhur,Mansoura,24.3,166,express,in transit
+DC60948951,Giza,Fayoum,19.3,94,standard,delivered
+DC40602927,Damanhur,Alexandria,17.9,84,standard,delivered
+DC08346629,Tanta,Ismailia,17.5,96,standard,delivered
+DC57517744,Cairo,Mansoura,16.0,88,standard,delivered
+DC89100855,Ismailia,Tanta,13.0,110,express,delivered
+DC78500688,Tanta,Borg El Arab,18.9,141,express,delivered
+DC16342033,Fayoum,Cairo,1.9,32,standard,delivered
+DC40349110,Port Said,Kafr El Sheikh,4.1,42,standard,returned
+DC57906140,Fayoum,Ismailia,21.2,159,express,delivered
+DC19431804,Alexandria,Damanhur,14.5,83,standard,in transit
+DC12570835,Ismailia,Alexandria,14.8,79,standard,delivered
+DC52431188,Damanhur,Zagazig,10.5,72,standard,delivered
+DC56591008,Fayoum,Cairo,15.0,173,urgent,delivered
+DC80305404,Fayoum,Port Said,8.6,97,express,delivered
+DC36868018,Alexandria,Zagazig,23.6,162,express,delivered
+DC16845404,Cairo,Tanta,24.8,172,express,at hub
+DC38252508,Cairo,Fayoum,24.6,113,standard,at hub
+DC32228375,Mansoura,Cairo,8.3,59,standard,delivered
+DC03050807,Alexandria,Mansoura,0.5,29,standard,delivered
+DC98374787,Fayoum,Kafr El Sheikh,13.3,73,standard,delivered
+DC91157591,Kafr El Sheikh,Giza,21.9,159,express,delivered
+DC44455131,Ismailia,Damanhur,18.2,91,standard,delivered
+DC02450858,Giza,Alexandria,21.3,105,standard,delivered
+DC20158362,Fayoum,Tanta,9.6,66,standard,in transit
+DC81485990,Mansoura,Borg El Arab,16.8,82,standard,delivered
+DC28724130,Alexandria,Zagazig,24.8,110,standard,delivered
+DC00492887,Borg El Arab,Port Said,21.3,102,standard,in transit
+DC77556789,Giza,Damanhur,8.3,56,standard,delivered
+DC63925831,Alexandria,Zagazig,23.5,113,standard,delivered
+DC30447612,Tanta,Fayoum,10.3,67,standard,delivered
+DC44348894,Cairo,Borg El Arab,13.3,81,standard,delivered
+DC94295047,Ismailia,Mansoura,19.1,93,standard,delivered
+DC97653749,Cairo,Port Said,23.1,103,standard,delivered
+DC69189186,Kafr El Sheikh,Port Said,11.9,70,standard,delivered
+DC68001349,Ismailia,Mansoura,15.6,132,express,delivered
+DC61534227,Borg El Arab,Alexandria,11.5,72,standard,delivered
+DC23238539,Mansoura,Borg El Arab,19.8,95,standard,delivered
+DC04718750,Alexandria,Zagazig,19.7,101,standard,delivered
+DC25440621,Cairo,Zagazig,2.9,39,standard,delivered
+DC10245382,Giza,Zagazig,2.5,34,standard,delivered
+DC06950561,Borg El Arab,Giza,6.9,123,urgent,delivered
+DC67174482,Tanta,Damanhur,3.7,38,standard,delivered
+DC44919858,Ismailia,Borg El Arab,7.2,58,standard,returned
+DC72221116,Zagazig,Kafr El Sheikh,6.8,88,express,delivered
+DC67960297,Mansoura,Port Said,23.9,107,standard,delivered
+DC07135510,Tanta,Borg El Arab,11.0,61,standard,delivered
+DC46625464,Ismailia,Alexandria,21.6,161,express,in transit
+DC06691669,Kafr El Sheikh,Alexandria,15.3,133,express,in transit
+DC00344428,Ismailia,Cairo,21.8,164,express,delivered
+DC71641581,Port Said,Borg El Arab,21.2,101,standard,delivered
+DC45358747,Fayoum,Zagazig,0.2,32,standard,delivered
+DC99612433,Kafr El Sheikh,Tanta,7.5,56,standard,delivered
+DC39303552,Tanta,Alexandria,1.3,31,standard,delivered
+DC01356224,Alexandria,Kafr El Sheikh,23.5,105,standard,delivered
+DC05355821,Tanta,Kafr El Sheikh,1.2,51,express,in transit
+DC84752494,Cairo,Alexandria,24.5,111,standard,delivered
+DC66097004,Ismailia,Alexandria,4.5,49,standard,delivered
+DC46432858,Port Said,Zagazig,6.0,51,standard,delivered
+DC20868900,Tanta,Port Said,5.7,54,standard,delivered
+DC65088115,Tanta,Fayoum,3.3,45,standard,in transit
+DC57384345,Giza,Zagazig,16.7,127,express,returned
+DC03985612,Damanhur,Borg El Arab,14.1,72,standard,delivered
+DC09756070,Ismailia,Cairo,19.6,89,standard,delivered
+DC39192892,Fayoum,Damanhur,20.8,147,express,in transit
+DC27991058,Giza,Tanta,24.3,108,standard,delivered
+DC99582473,Port Said,Zagazig,19.4,90,standard,delivered
+DC09651186,Mansoura,Fayoum,1.6,45,standard,in transit
+DC63248139,Giza,Ismailia,9.2,68,standard,delivered
+DC73225091,Kafr El Sheikh,Damanhur,10.7,69,standard,delivered
+DC34827643,Ismailia,Zagazig,24.0,114,standard,delivered
+DC63512685,Alexandria,Mansoura,7.1,57,standard,delivered
+DC31430271,Kafr El Sheikh,Giza,19.0,94,standard,delivered
+DC05818814,Port Said,Ismailia,3.1,67,express,delivered
+DC70354867,Giza,Borg El Arab,5.4,45,standard,delivered
+DC09081915,Cairo,Fayoum,5.0,56,standard,delivered
+DC70817485,Alexandria,Fayoum,8.3,65,standard,delivered
+DC70358132,Port Said,Zagazig,23.3,114,standard,in transit
+DC80773942,Ismailia,Kafr El Sheikh,16.2,81,standard,at hub
+DC90227436,Fayoum,Ismailia,4.3,42,standard,delivered
+DC76774476,Damanhur,Borg El Arab,18.7,98,standard,delivered
+DC37585558,Mansoura,Alexandria,22.8,99,standard,delivered
+DC89145045,Borg El Arab,Alexandria,20.6,152,express,delivered
+DC85508318,Port Said,Cairo,24.6,169,express,delivered
+DC93763454,Mansoura,Port Said,13.4,70,standard,delivered
+DC00485517,Alexandria,Damanhur,14.5,117,express,delivered
+DC97548118,Kafr El Sheikh,Alexandria,16.3,131,express,delivered
+DC26248726,Port Said,Zagazig,24.9,113,standard,delivered
+DC38231277,Port Said,Alexandria,8.1,54,standard,delivered
+DC15219335,Ismailia,Alexandria,19.2,99,standard,delivered
+DC39178623,Cairo,Alexandria,1.9,45,standard,delivered
+DC68647982,Alexandria,Ismailia,15.7,78,standard,delivered
+DC84304292,Fayoum,Cairo,2.7,48,standard,delivered
+DC32715121,Tanta,Cairo,22.4,105,standard,delivered
+DC24052335,Borg El Arab,Port Said,18.3,96,standard,delivered
+DC67706647,Giza,Zagazig,12.4,116,express,delivered
+DC89553808,Zagazig,Damanhur,22.7,159,express,delivered
+DC02022096,Ismailia,Tanta,4.5,44,standard,delivered
+DC92199114,Giza,Fayoum,4.4,70,express,delivered
+DC80609824,Mansoura,Fayoum,6.7,54,standard,in transit
+DC00620103,Ismailia,Damanhur,18.1,140,express,delivered
+DC57071178,Kafr El Sheikh,Giza,22.8,167,express,delivered
+DC63800625,Tanta,Ismailia,3.8,41,standard,delivered
+DC55999485,Giza,Ismailia,23.5,107,standard,delivered
+DC85899054,Ismailia,Borg El Arab,23.5,163,express,delivered
+DC92746042,Fayoum,Zagazig,14.0,83,standard,delivered
+DC88539381,Cairo,Tanta,22.3,234,urgent,returned
+DC49149116,Port Said,Damanhur,17.0,84,standard,in transit
+DC36733869,Fayoum,Damanhur,10.1,61,standard,delivered
+DC96864036,Tanta,Port Said,16.8,83,standard,delivered
+DC65524598,Kafr El Sheikh,Tanta,5.2,51,standard,delivered
+DC90102341,Damanhur,Ismailia,21.2,157,express,delivered
+DC53280246,Kafr El Sheikh,Cairo,13.1,73,standard,delivered
+DC05675651,Kafr El Sheikh,Port Said,8.5,65,standard,in transit
+DC67317615,Borg El Arab,Ismailia,7.2,59,standard,delivered
+DC34534877,Giza,Cairo,16.3,90,standard,delivered
+DC81151372,Damanhur,Borg El Arab,20.0,90,standard,delivered
+DC51625881,Ismailia,Cairo,13.5,118,express,delivered
+DC44149860,Port Said,Ismailia,10.7,74,standard,delivered
+DC89823524,Alexandria,Ismailia,15.6,90,standard,in transit
+DC32639516,Port Said,Fayoum,13.5,165,urgent,delivered
+DC98937899,Damanhur,Alexandria,16.6,185,urgent,returned
+DC52460517,Port Said,Alexandria,11.7,71,standard,delivered
+DC64890516,Ismailia,Zagazig,1.3,41,standard,delivered
+DC09242647,Fayoum,Ismailia,20.6,99,standard,delivered
+DC00081148,Fayoum,Alexandria,15.0,73,standard,delivered
+DC58720172,Tanta,Giza,20.4,96,standard,delivered
+DC09683858,Fayoum,Cairo,11.2,70,standard,delivered
+DC57370946,Cairo,Borg El Arab,2.8,82,urgent,delivered
+DC78405585,Fayoum,Cairo,3.5,62,express,in transit
+DC42230210,Alexandria,Mansoura,5.1,49,standard,delivered
+DC21356801,Ismailia,Giza,5.2,53,standard,delivered
+DC66563424,Mansoura,Tanta,20.6,98,standard,delivered
+DC66218933,Zagazig,Kafr El Sheikh,8.6,67,standard,delivered
+DC14300532,Mansoura,Kafr El Sheikh,17.0,140,express,delivered
+DC65152680,Ismailia,Zagazig,9.1,55,standard,delivered
+DC78113711,Giza,Fayoum,21.5,103,standard,delivered
+DC06747031,Cairo,Kafr El Sheikh,1.3,31,standard,delivered
+DC01030523,Kafr El Sheikh,Alexandria,17.2,82,standard,delivered
+DC24207164,Borg El Arab,Giza,20.4,105,standard,delivered
+DC45408354,Alexandria,Giza,19.6,99,standard,delivered
+DC98287928,Ismailia,Zagazig,8.4,53,standard,delivered
+DC42010598,Giza,Port Said,18.9,96,standard,delivered
+DC60850004,Ismailia,Giza,20.7,155,express,delivered
+DC92170468,Cairo,Mansoura,23.9,110,standard,in transit
+DC80802462,Zagazig,Giza,5.5,46,standard,delivered
+DC57557069,Tanta,Zagazig,23.6,174,express,delivered
+DC42302084,Giza,Tanta,17.9,91,standard,delivered
+DC09363868,Ismailia,Zagazig,16.5,81,standard,delivered
+DC55903588,Alexandria,Port Said,14.5,124,express,delivered
+DC38798253,Borg El Arab,Ismailia,15.1,87,standard,in transit
+DC56492088,Alexandria,Kafr El Sheikh,17.7,144,express,delivered
+DC59593020,Port Said,Ismailia,5.5,54,standard,delivered
+DC46399925,Zagazig,Damanhur,21.8,98,standard,delivered
+DC76714259,Borg El Arab,Zagazig,23.0,228,urgent,delivered
+DC68092468,Port Said,Alexandria,20.9,159,express,delivered
+DC15163165,Fayoum,Cairo,17.7,86,standard,delivered
+DC55128949,Borg El Arab,Port Said,19.0,145,express,at hub
+DC24481703,Fayoum,Cairo,3.1,56,express,delivered
+DC39822124,Giza,Alexandria,16.4,82,standard,delivered
+DC00092901,Damanhur,Zagazig,16.4,129,express,at hub
+DC01476907,Port Said,Borg El Arab,20.2,149,express,in transit
+DC19929778,Cairo,Damanhur,12.9,75,standard,delivered
+DC91783829,Alexandria,Damanhur,3.9,43,standard,delivered
+DC99495805,Borg El Arab,Kafr El Sheikh,8.7,63,standard,delivered
+DC36936145,Mansoura,Zagazig,9.4,68,standard,delivered
+DC55498984,Giza,Port Said,13.9,71,standard,delivered
+DC45808424,Giza,Tanta,3.3,46,standard,at hub
+DC04037413,Zagazig,Damanhur,15.1,119,express,delivered
+DC38208154,Port Said,Kafr El Sheikh,12.0,71,standard,delivered
+DC76658765,Zagazig,Mansoura,2.7,40,standard,in transit
+DC52230771,Ismailia,Fayoum,18.5,143,express,in transit
+DC36193892,Borg El Arab,Alexandria,2.8,44,standard,delivered
+DC94249818,Port Said,Kafr El Sheikh,7.1,57,standard,delivered
+DC98224336,Mansoura,Ismailia,6.8,56,standard,delivered
+DC66056389,Cairo,Mansoura,16.2,91,standard,in transit
+DC50344234,Giza,Mansoura,23.7,111,standard,delivered
+DC45972473,Tanta,Alexandria,17.2,87,standard,delivered
+DC93277031,Mansoura,Kafr El Sheikh,13.7,112,express,delivered
+DC34950338,Ismailia,Kafr El Sheikh,11.5,106,express,at hub
+DC49376883,Cairo,Alexandria,12.8,72,standard,delivered
+DC15350235,Ismailia,Kafr El Sheikh,7.0,50,standard,delivered
+DC10493038,Mansoura,Alexandria,1.9,43,standard,delivered
+DC81686019,Port Said,Cairo,0.6,28,standard,delivered
+DC58986391,Damanhur,Giza,6.6,51,standard,delivered
+DC11944818,Mansoura,Damanhur,19.1,146,express,at hub
+DC46233010,Borg El Arab,Fayoum,1.0,30,standard,at hub
+DC83061218,Cairo,Tanta,6.2,77,express,delivered
+DC88306591,Fayoum,Kafr El Sheikh,7.4,57,standard,at hub
+DC18862386,Giza,Mansoura,20.4,95,standard,delivered
+DC33306423,Ismailia,Damanhur,2.7,39,standard,in transit
+DC64800080,Ismailia,Zagazig,23.5,101,standard,delivered
+DC92240078,Cairo,Mansoura,23.6,101,standard,delivered
+DC65630712,Ismailia,Fayoum,18.2,93,standard,delivered
+DC25575081,Giza,Alexandria,20.5,95,standard,delivered
+DC15652740,Zagazig,Mansoura,4.6,54,standard,delivered
+DC38873987,Damanhur,Ismailia,17.2,91,standard,delivered
+DC35282852,Damanhur,Ismailia,24.3,169,express,at hub
+DC75090392,Cairo,Borg El Arab,15.3,78,standard,delivered
+DC64999785,Port Said,Giza,4.6,53,standard,delivered
+DC45307447,Alexandria,Kafr El Sheikh,13.6,113,express,delivered
+DC82549686,Ismailia,Mansoura,21.0,106,standard,delivered
+DC95950638,Ismailia,Cairo,21.7,97,standard,in transit
+DC07032394,Port Said,Borg El Arab,16.0,133,express,at hub
+DC87785998,Tanta,Mansoura,10.0,65,standard,in transit
+DC86219492,Zagazig,Mansoura,10.2,67,standard,at hub
+DC11847940,Ismailia,Tanta,24.8,252,urgent,delivered
+DC63854426,Giza,Mansoura,17.1,191,urgent,delivered
+DC23312618,Port Said,Borg El Arab,23.2,104,standard,delivered
+DC46528590,Tanta,Damanhur,22.5,168,express,delivered
+DC94429558,Cairo,Alexandria,20.8,155,express,delivered
+DC19112164,Cairo,Port Said,16.7,90,standard,delivered
+DC18114695,Borg El Arab,Giza,16.0,136,express,at hub
+DC06588932,Giza,Fayoum,8.5,97,express,delivered
+DC13194857,Borg El Arab,Cairo,22.0,109,standard,delivered
+DC91782388,Giza,Port Said,24.5,105,standard,delivered
+DC10824323,Port Said,Zagazig,20.3,95,standard,delivered
+DC01509562,Kafr El Sheikh,Port Said,24.3,167,express,in transit
+DC88516486,Giza,Cairo,22.0,227,urgent,in transit
+DC82525627,Ismailia,Port Said,19.7,92,standard,delivered
+DC03650630,Mansoura,Alexandria,23.1,114,standard,delivered
+DC95196879,Tanta,Port Said,11.9,109,express,delivered
+DC82401926,Cairo,Port Said,4.7,53,standard,delivered
+DC68940667,Ismailia,Giza,17.4,88,standard,delivered
+DC46000606,Borg El Arab,Tanta,15.3,83,standard,delivered
+DC74618710,Ismailia,Cairo,9.9,71,standard,delivered
+DC64870362,Damanhur,Cairo,7.7,51,standard,delivered
+DC53705663,Giza,Kafr El Sheikh,23.9,112,standard,delivered
+DC29524950,Port Said,Ismailia,7.1,59,standard,delivered
+DC98534864,Giza,Cairo,14.0,125,express,delivered
+DC13620502,Mansoura,Alexandria,2.4,40,standard,returned
+DC95019861,Fayoum,Kafr El Sheikh,20.9,97,standard,delivered
+DC21770662,Damanhur,Giza,0.7,34,standard,in transit
+DC95336502,Kafr El Sheikh,Alexandria,3.3,48,standard,in transit
+DC02976157,Cairo,Port Said,20.3,91,standard,in transit
+DC55582070,Fayoum,Ismailia,24.1,110,standard,delivered
+DC54137216,Damanhur,Fayoum,9.5,57,standard,delivered
+DC70195527,Giza,Damanhur,2.8,57,express,at hub
+DC94351437,Borg El Arab,Alexandria,23.7,102,standard,delivered
+DC41186082,Mansoura,Kafr El Sheikh,8.6,61,standard,delivered
+DC89072106,Ismailia,Tanta,21.8,97,standard,in transit
+DC46008809,Cairo,Zagazig,18.2,142,express,delivered
+DC05899581,Fayoum,Borg El Arab,0.8,29,standard,delivered
+DC46710766,Tanta,Port Said,15.4,79,standard,delivered
+DC07108415,Alexandria,Cairo,17.4,93,standard,at hub
+DC27868216,Damanhur,Port Said,16.5,79,standard,delivered
+DC01219566,Mansoura,Ismailia,22.4,97,standard,delivered
+DC01429065,Cairo,Port Said,3.4,61,express,returned
+DC44561349,Giza,Cairo,6.7,50,standard,delivered
+DC32192591,Damanhur,Port Said,1.5,35,standard,in transit
+DC52104623,Fayoum,Kafr El Sheikh,23.0,101,standard,delivered
+DC32938977,Ismailia,Borg El Arab,10.8,69,standard,delivered
+DC23103623,Borg El Arab,Mansoura,9.0,64,standard,at hub
+DC49859286,Borg El Arab,Zagazig,14.6,80,standard,delivered
+DC50012263,Kafr El Sheikh,Mansoura,12.0,160,urgent,delivered
+DC70891511,Zagazig,Mansoura,19.2,90,standard,delivered
+DC36121962,Borg El Arab,Fayoum,15.7,88,standard,delivered
+DC10646240,Borg El Arab,Fayoum,20.1,91,standard,delivered
+DC14435744,Zagazig,Giza,15.6,134,express,delivered
+DC58567901,Ismailia,Giza,24.3,111,standard,delivered
+DC94569088,Mansoura,Kafr El Sheikh,7.4,57,standard,delivered
+DC04292048,Giza,Alexandria,3.6,48,standard,delivered
+DC05174569,Tanta,Port Said,2.0,41,standard,delivered
+DC98738606,Borg El Arab,Tanta,17.2,195,urgent,delivered
+DC83015854,Zagazig,Ismailia,7.3,86,express,delivered
+DC73530688,Alexandria,Giza,13.8,72,standard,delivered
+DC40171632,Kafr El Sheikh,Tanta,16.5,81,standard,delivered
+DC34709575,Cairo,Mansoura,9.9,100,express,in transit
+DC48582424,Port Said,Mansoura,12.5,112,express,delivered
+DC31961753,Fayoum,Ismailia,22.2,107,standard,delivered
+DC21327838,Giza,Tanta,9.9,67,standard,at hub
+DC91004054,Alexandria,Kafr El Sheikh,24.5,247,urgent,delivered
+DC04890047,Borg El Arab,Cairo,10.9,65,standard,delivered
+DC23095637,Ismailia,Borg El Arab,8.7,56,standard,delivered
+DC30053979,Kafr El Sheikh,Mansoura,11.5,101,express,delivered
+DC85478903,Ismailia,Damanhur,2.0,34,standard,in transit
+DC35860875,Port Said,Tanta,4.2,42,standard,delivered
+DC86438372,Port Said,Tanta,12.8,77,standard,at hub
+DC34583192,Tanta,Mansoura,6.7,83,express,delivered
+DC76981423,Kafr El Sheikh,Cairo,5.9,47,standard,delivered
+DC30247616,Giza,Mansoura,15.2,88,standard,delivered
+DC46740236,Mansoura,Damanhur,2.7,66,express,delivered
+DC50428246,Zagazig,Port Said,24.9,120,standard,delivered
+DC64442340,Borg El Arab,Fayoum,7.6,53,standard,delivered
+DC18346382,Ismailia,Kafr El Sheikh,20.5,215,urgent,delivered
+DC63892198,Damanhur,Fayoum,14.4,76,standard,delivered
+DC13745019,Port Said,Borg El Arab,24.6,108,standard,at hub
+DC20970259,Kafr El Sheikh,Tanta,18.3,199,urgent,delivered
+DC18047577,Cairo,Borg El Arab,21.8,109,standard,in transit
+DC36195022,Mansoura,Borg El Arab,3.2,47,standard,delivered
+DC42187747,Borg El Arab,Tanta,18.7,90,standard,delivered
+DC04600635,Port Said,Tanta,3.9,70,express,delivered
+DC12860770,Port Said,Giza,0.4,55,express,in transit
+DC35416704,Alexandria,Tanta,1.3,77,urgent,at hub
+DC05703477,Mansoura,Port Said,2.6,68,express,at hub
+DC61865554,Zagazig,Alexandria,11.7,100,express,delivered
+DC13453885,Ismailia,Port Said,1.7,36,standard,in transit
+DC54940813,Port Said,Giza,6.6,55,standard,at hub
+DC40821390,Fayoum,Kafr El Sheikh,13.3,77,standard,delivered
+DC07144414,Fayoum,Zagazig,9.0,61,standard,delivered
+DC15885533,Mansoura,Cairo,3.7,44,standard,delivered
+DC05956482,Borg El Arab,Kafr El Sheikh,12.1,114,express,delivered
+DC59756762,Kafr El Sheikh,Damanhur,15.7,179,urgent,delivered
+DC20751289,Cairo,Borg El Arab,14.0,75,standard,delivered
+DC35929279,Giza,Fayoum,5.6,53,standard,delivered
+DC90603599,Ismailia,Tanta,10.9,96,express,delivered
+DC21697949,Mansoura,Cairo,24.2,112,standard,delivered
+DC70899772,Cairo,Fayoum,8.5,64,standard,delivered
+DC07983247,Alexandria,Damanhur,7.6,93,express,delivered
+DC98565766,Mansoura,Damanhur,24.2,110,standard,delivered
+DC64367933,Zagazig,Fayoum,4.0,65,express,delivered
+DC31662326,Borg El Arab,Fayoum,7.4,62,standard,delivered
+DC24441393,Kafr El Sheikh,Fayoum,22.3,156,express,delivered
+DC98573996,Borg El Arab,Zagazig,11.6,67,standard,delivered
+DC01430375,Giza,Cairo,12.8,74,standard,in transit
+DC13523771,Tanta,Damanhur,16.6,136,express,delivered
+DC75747498,Kafr El Sheikh,Mansoura,15.0,82,standard,delivered
+DC89194488,Damanhur,Fayoum,20.9,100,standard,delivered
+DC31548295,Alexandria,Port Said,6.9,81,express,delivered
+DC52417894,Ismailia,Mansoura,19.9,150,express,delivered
+DC58705588,Mansoura,Tanta,22.7,170,express,at hub
+DC62948458,Mansoura,Tanta,3.3,96,urgent,delivered
+DC39658260,Giza,Damanhur,12.9,71,standard,in transit
+DC38366513,Cairo,Damanhur,23.0,105,standard,at hub
+DC40342520,Ismailia,Alexandria,1.8,33,standard,delivered
+DC27468171,Cairo,Port Said,24.1,103,standard,at hub
+DC72021461,Giza,Fayoum,22.5,112,standard,at hub
+DC86101617,Zagazig,Cairo,21.8,232,urgent,delivered
+DC73866961,Zagazig,Kafr El Sheikh,2.0,44,standard,delivered
+DC02765104,Zagazig,Kafr El Sheikh,2.0,43,standard,delivered
+DC24546910,Fayoum,Tanta,1.8,35,standard,delivered
+DC50371404,Borg El Arab,Giza,23.8,101,standard,delivered
+DC31751423,Zagazig,Alexandria,17.4,95,standard,delivered
+DC04483031,Alexandria,Damanhur,11.9,102,express,delivered
+DC75524333,Kafr El Sheikh,Port Said,1.4,33,standard,delivered
+DC63354529,Alexandria,Zagazig,21.5,95,standard,delivered
+DC57294504,Mansoura,Fayoum,16.4,83,standard,delivered
+DC65841993,Borg El Arab,Port Said,20.5,91,standard,delivered
+DC69492157,Ismailia,Cairo,1.0,42,standard,in transit
+DC78438734,Alexandria,Damanhur,23.8,115,standard,delivered
+DC97977346,Port Said,Mansoura,2.3,81,urgent,at hub
+DC66208552,Kafr El Sheikh,Ismailia,17.0,130,express,delivered
+DC57815612,Borg El Arab,Zagazig,9.9,61,standard,delivered
+DC83330646,Ismailia,Mansoura,3.4,38,standard,in transit
+DC80391871,Tanta,Zagazig,23.4,103,standard,delivered
+DC85451018,Mansoura,Fayoum,7.3,63,standard,delivered
