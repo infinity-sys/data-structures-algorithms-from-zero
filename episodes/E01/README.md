@@ -1,6 +1,6 @@
 # E01 — What Are Data Structures and Algorithms?
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/zc1-jmmkC60
 
 Files in this folder:
 
