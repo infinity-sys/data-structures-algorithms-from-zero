@@ -1,0 +1,45 @@
+$ python3 undo_pile.py
+Stack        removed C X B | left A | size 1
+LinkedStack  removed C X B | left A | size 1
+
+$ python3 stack_demo.py
+Stack       peek P3 pop P3 pop P2 size 1
+Stack       empty True: IndexError
+LinkedStack peek P3 pop P3 pop P2 size 1
+LinkedStack empty True: IndexError
+
+$ python3 brackets.py
+{[()]}         balanced
+([)]           mismatch at 2: [ closed by )
+(()            1 opener(s) never closed
+())            closer ) at 2 has no opener
+rate[(w+2)*3]  balanced
+
+$ python3 undo_redo.py
+DC83606849 start: at hub
+after 2 edits: delivered | undo 2 redo 0
+undo: in transit | undo 1 redo 1
+redo: delivered | undo 2 redo 0
+
+$ python3 call_stack.py
+  push total(3)
+    push total(2)
+      push total(1)
+        push total(0)
+        pop  total(0) -> 0
+      pop  total(1) -> 1
+    pop  total(2) -> 3
+  pop  total(3) -> 6
+answer 6
+recursion limit 1000 -> RecursionError
+
+$ python3 van.py
+plan:   Zagazig Tanta Fayoum Damanhur Port Said
+loaded 5 | top: DC83606849 Zagazig
+unload: Zagazig Tanta Fayoum Damanhur Port Said
+same as plan: True
+
+$ python3 top_cost.py
+top at head: pop DC62087103 | hops 0
+top at tail: pop DC85451018 | hops 598
+
