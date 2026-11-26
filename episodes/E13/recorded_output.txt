@@ -1,0 +1,40 @@
+Python 3.13.5 CPython Linux x86_64
+parcels 600 samples 7 batch 200 unit microseconds/workload
+ROUND 1
+append x600: array=7.024 chain=81.109
+  array samples 7.477, 7.654, 6.573, 7.627, 6.103, 7.024, 6.155
+  chain samples 80.423, 85.294, 79.573, 90.352, 79.885, 94.561, 81.109
+index 300: array=0.030 chain=2.767
+  array samples 0.030, 0.031, 0.025, 0.029, 0.030, 0.030, 0.025
+  chain samples 2.767, 2.772, 2.767, 2.663, 2.989, 2.599, 2.672
+front insert+remove: array=0.457 chain=0.154
+  array samples 0.475, 0.474, 0.418, 0.457, 0.419, 0.529, 0.421
+  chain samples 0.151, 0.194, 0.147, 0.155, 0.149, 0.154, 0.157
+middle known insert+remove: array=0.426 chain=0.197
+  array samples 0.404, 0.434, 0.454, 0.440, 0.374, 0.426, 0.368
+  chain samples 0.200, 0.231, 0.194, 0.197, 0.190, 0.186, 0.203
+middle find+insert+remove: array=0.392 chain=2.747
+  array samples 0.402, 0.405, 0.370, 0.409, 0.378, 0.392, 0.365
+  chain samples 2.874, 2.727, 2.747, 2.729, 2.822, 2.824, 2.741
+last remove+append: array=0.056 chain=13.316
+  array samples 0.057, 0.059, 0.041, 0.059, 0.045, 0.056, 0.043
+  chain samples 15.271, 13.316, 13.192, 16.653, 16.827, 13.203, 13.175
+ROUND 2
+append x600: array=7.467 chain=87.915
+  array samples 7.903, 7.258, 9.173, 7.467, 6.512, 7.639, 6.253
+  chain samples 89.799, 142.285, 84.241, 80.121, 87.915, 80.637, 91.427
+index 300: array=0.033 chain=2.688
+  array samples 0.038, 0.033, 0.024, 0.040, 0.024, 0.033, 0.025
+  chain samples 2.688, 2.677, 2.834, 2.722, 2.937, 2.625, 2.608
+front insert+remove: array=0.499 chain=0.159
+  array samples 0.515, 0.499, 0.425, 0.506, 0.427, 0.504, 0.424
+  chain samples 0.147, 0.147, 0.171, 0.153, 0.168, 0.159, 0.167
+middle known insert+remove: array=0.449 chain=0.202
+  array samples 0.594, 0.447, 0.375, 0.568, 0.477, 0.449, 0.384
+  chain samples 0.197, 0.233, 0.203, 0.202, 0.250, 0.197, 0.187
+middle find+insert+remove: array=0.449 chain=2.750
+  array samples 0.454, 0.449, 0.378, 0.516, 0.375, 0.516, 0.372
+  chain samples 2.936, 2.745, 2.715, 2.742, 2.764, 2.779, 2.750
+last remove+append: array=0.055 chain=13.206
+  array samples 0.056, 0.057, 0.056, 0.054, 0.044, 0.055, 0.046
+  chain samples 13.258, 13.187, 13.121, 13.835, 13.326, 13.164, 13.206
